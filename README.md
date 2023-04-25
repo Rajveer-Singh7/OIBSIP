@@ -1,4 +1,4 @@
-# OIBSIP
+# CALCULATOR TASK
 📌Task details :
 📍Level 2: Web development and Designing 
 📍Task 01: Calculator 
